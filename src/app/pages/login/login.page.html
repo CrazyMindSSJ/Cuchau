@@ -1,0 +1,22 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <ion-title>Ingresar</ion-title>
+      <ion-button fill="outline">Volver</ion-button>
+    </div>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card>
+    <ion-input type="email" fill="solid" label="Correo electrónico" labelPlacement="floating" helperText="Ingrese su correo electrónico" errorText="Correo inválido"
+        ngModel email></ion-input>
+
+    <ion-input type="password" fill="solid" label="Password" labelPlacement="floating" helperText="Ingrese su contraseña"></ion-input>
+
+    <ion-button expand="full" shape="round">Ingresar</ion-button>
+  </ion-card>
+  <p>¿No tienes cuenta?, ¡regístrate!</p>
+  <ion-button id="present-alert">Click Me</ion-button>
+<ion-alert trigger="present-alert" header="Please enter your info" [buttons]="alertButtons" [inputs]="alertInputs"></ion-alert>
+</ion-content>

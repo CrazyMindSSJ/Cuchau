@@ -16,7 +16,15 @@
 
     <ion-button expand="full" shape="round">Ingresar</ion-button>
   </ion-card>
-  <p>¿No tienes cuenta?, ¡regístrate!</p>
-  <ion-button id="present-alert">Click Me</ion-button>
-<ion-alert trigger="present-alert" header="Please enter your info" [buttons]="alertButtons" [inputs]="alertInputs"></ion-alert>
+  <div class="centered-container">
+    <p>¿No tienes cuenta?, ¡regístrate!</p>
+    <ion-button id="register-button">Registrarse</ion-button>
+    <ion-alert trigger="register-button" header="Por favor, ingresa tu información" [buttons]="botonRegistrar" [inputs]="registrarse"></ion-alert>
+
+    <p>¿Olvidaste tu contraseña?</p>
+    <ion-button id="recover-button">Recuperar contraseña</ion-button>
+    <ion-alert trigger="recover-button" header="Recuperar contraseña" [buttons]="botonRecuperar" [inputs]="recuperar"></ion-alert>
+    <ion-alert trigger="botonRecuperar">Correo enviado</ion-alert>
+</div>
+  
 </ion-content>

@@ -13,8 +13,11 @@ export class LoginPage implements OnInit {
   ngOnInit() {
   }
   
-  public alertButtons = ['OK'];
-  public alertInputs = [
+  public botonRegistrar = ['Registrar'];
+  public botonRecuperar = [
+    'Recuperar'
+  ];
+  public registrarse = [
     {
       placeholder: 'Name',
     },
@@ -35,4 +38,10 @@ export class LoginPage implements OnInit {
       placeholder: 'A little about yourself',
     },
   ];
+  public recuperar = [
+    {
+      type: 'textarea',
+      placeholder: 'Ingrese su correo para enviar link de recuperación',
+    },
+  ]
 }

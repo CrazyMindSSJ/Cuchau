@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { FormControl, FormGroup, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
 
 @Component({
@@ -8,40 +9,15 @@ import { Router } from '@angular/router';
 })
 export class LoginPage implements OnInit {
 
+  email: string = "";
+  password: string = "";
+
+
   constructor(private router: Router) { }
 
-  ngOnInit() {
-  }
-  
-  public botonRegistrar = ['Registrar'];
-  public botonRecuperar = [
-    'Recuperar'
-  ];
-  public registrarse = [
-    {
-      placeholder: 'Name',
-    },
-    {
-      placeholder: 'Nickname (max 8 characters)',
-      attributes: {
-        maxlength: 8,
-      },
-    },
-    {
-      type: 'number',
-      placeholder: 'Age',
-      min: 1,
-      max: 100,
-    },
-    {
-      type: 'textarea',
-      placeholder: 'A little about yourself',
-    },
-  ];
+  ngOnInit() { }
+
   public recuperar = [
-    {
-      type: 'textarea',
-      placeholder: 'Ingrese su correo para enviar link de recuperación',
-    },
-  ]
+    { type: 'textarea', placeholder: 'Ingrese su correo para enviar link de recuperación' },
+  ];
 }

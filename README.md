@@ -44,13 +44,13 @@
 ✧ ˖ ꒰ ੭´ — — — — — — — — — — — — ✰⁺ಿೖ୭
 
 ##  ![de13e6l-8b5caa05-788b-43f4-b485-fa7b9ef5203a](https://github.com/user-attachments/assets/2b495e08-36ff-4863-bc06-643b11f79795) ❏ 1) Explorando NyanViajes: La Revolución en Movilidad Segura de Estudiantes
-#### ✧ CONTEXTO Y NECESIDAD:
+#### ✧ ![daxf3gc-f0c23de8-af1b-4756-96f3-4a8ed8a49382](https://github.com/user-attachments/assets/9d3c07e5-a1c3-4aa8-b325-c164a7cdf7f3)  ✧ CONTEXTO Y NECESIDAD:
 En contexto de Pandemia que enfrentamos por este tiempo, las escuelas e instituciones profesionales comienzan su retorno a clases, es por ello que se empiezan a presentar
 una serie de problemáticas, como por ejemplo dificultad para regresar a sus casas después de la jornada de clases vespertina. La pandemia ha alterado rutinas normales y ha colocado en evidencia
 problemas de trasnporte que afectan la vida cotidiana de todos los estudiantes de DuocUc, principalmente aquellos que no cuentan con un trasnporte personal.
 
 
-####  ✧ PROBLEMAS IDENTIFICADOS:
+####  ✧ ![d4v27x9-7a37dfb2-d738-4dec-8749-dfb5c685eab3](https://github.com/user-attachments/assets/f0b774cc-2443-4b01-b781-c3ccd5bba5fe) ✧ PROBLEMAS IDENTIFICADOS:
 En base al contexto ya expuesto, identificamos problemas principales como la falta de transporte público duerante el horario nocturno, los valores altamente excesivos de servicios de transporte
 privados como los son UBER y TAXIS, la falta de vehiculos propios y el escaso transporte que ofrece la propia institución.
 

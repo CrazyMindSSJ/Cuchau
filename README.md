@@ -1,5 +1,6 @@
 <div align="center">
   
+![dbbypmk-d107bad7-d34b-4cbd-9a1b-c32e7c191524](https://github.com/user-attachments/assets/d1be6b50-aa9e-42f0-833a-d4314715d79f)
 
 ##         ![dd0qbjc-542bbaa2-21c7-4b83-b681-90659453be94](https://github.com/user-attachments/assets/21b65f96-c644-41ed-b73e-afb99550e73a) ☆◦ ─ ──────(N y a n    V i a j e s)───── ─ ◦☆ ⋆ ![dd0qbjc-542bbaa2-21c7-4b83-b681-90659453be94](https://github.com/user-attachments/assets/056a21d2-6f57-42db-9d6b-f64c161214e0)
 
@@ -44,17 +45,17 @@
 ✧ ˖ ꒰ ੭´ — — — — — — — — — — — — ✰⁺ಿೖ୭
 
 ##  ![de13e6l-8b5caa05-788b-43f4-b485-fa7b9ef5203a](https://github.com/user-attachments/assets/2b495e08-36ff-4863-bc06-643b11f79795) ❏ 1) Explorando NyanViajes: La Revolución en Movilidad Segura de Estudiantes
-#### ✧ ![daxf3gc-f0c23de8-af1b-4756-96f3-4a8ed8a49382](https://github.com/user-attachments/assets/9d3c07e5-a1c3-4aa8-b325-c164a7cdf7f3)  ✧ CONTEXTO Y NECESIDAD:
+#### ✧ ![dacdh0c-ac97d1fc-32a1-49ca-b8ba-cf42630f733b](https://github.com/user-attachments/assets/a8a6f5f6-0257-4379-9462-005727b26e33) ✧ CONTEXTO Y NECESIDAD:
 En contexto de Pandemia que enfrentamos por este tiempo, las escuelas e instituciones profesionales comienzan su retorno a clases, es por ello que se empiezan a presentar
 una serie de problemáticas, como por ejemplo dificultad para regresar a sus casas después de la jornada de clases vespertina. La pandemia ha alterado rutinas normales y ha colocado en evidencia
 problemas de trasnporte que afectan la vida cotidiana de todos los estudiantes de DuocUc, principalmente aquellos que no cuentan con un trasnporte personal.
 
 
-####  ✧ ![d4v27x9-7a37dfb2-d738-4dec-8749-dfb5c685eab3](https://github.com/user-attachments/assets/f0b774cc-2443-4b01-b781-c3ccd5bba5fe) ✧ PROBLEMAS IDENTIFICADOS:
+####  ✧ ![dacdh0c-ac97d1fc-32a1-49ca-b8ba-cf42630f733b](https://github.com/user-attachments/assets/740f7d76-ee75-4bb9-be1f-1a9cf26ec644)✧ PROBLEMAS IDENTIFICADOS:
 En base al contexto ya expuesto, identificamos problemas principales como la falta de transporte público duerante el horario nocturno, los valores altamente excesivos de servicios de transporte
 privados como los son UBER y TAXIS, la falta de vehiculos propios y el escaso transporte que ofrece la propia institución.
 
-#### ✧ OBJETIVO DE NyanViajes:
+#### ✧ ![dacdh0c-ac97d1fc-32a1-49ca-b8ba-cf42630f733b](https://github.com/user-attachments/assets/e058da1c-0ca7-4bd7-a9a4-6b366088d5d8) ✧ OBJETIVO DE NyanViajes:
 Es aqui cuando Nuestra Aplicación entra para ofrecer y brindar solución. Busacamos proporcionar una plataforma que permita a los estudiantes organizarse y compartir transporte, facilitando su regreso 
 a casa de forma segura y económica.
 <div align="center">
@@ -66,11 +67,11 @@ __  .   .   .   .   .   .   .   ︿   ^•⩊•^  ︿   .   .   .   .   .   .  
 
 
 ##  ![de13e6l-8b5caa05-788b-43f4-b485-fa7b9ef5203a](https://github.com/user-attachments/assets/2b495e08-36ff-4863-bc06-643b11f79795) ❏ 2)Características Claves de NyanViajes
-#### ✧  ORGANIZACIÓN EFICIENTE DE NYANVIAJES:
+#### ✧ ![dacdh0c-ac97d1fc-32a1-49ca-b8ba-cf42630f733b](https://github.com/user-attachments/assets/1562e4c5-7b36-44d4-9eed-7de011cc99a1)✧ ORGANIZACIÓN EFICIENTE DE NYANVIAJES:
 NyanViajes ofrece una interfaz intuitiva que permite a los estudiantes de DuocUc coordinar viajes compartidos de manera efectiva. Los usuarios pueden crear y unirse a grupos de transporte, ofreciendo 
 y buscando asientos disponibles en el vehiculo de otros estudiantes.
 
-#### ✧ BENEFICIOS INMEDIATOS:
+#### ✧ ![dacdh0c-ac97d1fc-32a1-49ca-b8ba-cf42630f733b](https://github.com/user-attachments/assets/0bf00707-5b9c-4c95-873e-e7531dcc0786) ✧ BENEFICIOS INMEDIATOS:
 Al utilizar nuestra aplicación NyanViajes los estudiantes pueden reducir significativamente la tarifa de viaje al compartirlo con otros estudiantes de la institución, tambien acceder a opciones de
 transporte mucho más confiables y disfrutar de un retorno a casa mucho más seguro y conveniente.
 <div align="center">
@@ -78,15 +79,15 @@ __  .   .   .   .   .   .   .   ︿  ^•⩊•^   ︿   .   .   .   .   .   .  
 </div>  
 
 ## ![de13e6l-8b5caa05-788b-43f4-b485-fa7b9ef5203a](https://github.com/user-attachments/assets/2b495e08-36ff-4863-bc06-643b11f79795) ❏ 3)  El Impacto y futuro de NyanViajes:
-#### ✧ BENEFICIOS PARA LA COMUNIDAD ESTUDIANTIL: 
+#### ✧ ![dacdh0c-ac97d1fc-32a1-49ca-b8ba-cf42630f733b](https://github.com/user-attachments/assets/30bde5bb-8df4-4182-8f9c-9fe2b8957600)✧ BENEFICIOS PARA LA COMUNIDAD ESTUDIANTIL: 
 NyanViajes mejora significativamente la movilidad de los estudiantes al ofrecer un viaje seguro y económico. Esta tambien ayuda a reducir el estres y gastos asociados al retorno a casa contribuyendo
 a una experiencia universitaria más positiva.
 
-#### ✧PLANES DE EXPANSIÓN:
+#### ✧ ![dacdh0c-ac97d1fc-32a1-49ca-b8ba-cf42630f733b](https://github.com/user-attachments/assets/7a90eb97-b35f-4e98-8915-940e37c68237)✧ PLANES DE EXPANSIÓN:
 A medida que nuestra aplicación crece, planeamos incluir nuevas funcionalidades como compatibilidad con diferentes dispositivos, opciones de pago dentro de la aplicación, mapas en tiempo real,
 y posibilidad de expandir nuestro servicio   a otras instituciones educativas y regiones.
 
-#### ✧VISIÓN A LARGO PLAZO:
+#### ✧ ![dacdh0c-ac97d1fc-32a1-49ca-b8ba-cf42630f733b](https://github.com/user-attachments/assets/8e4060de-63b7-42f6-a56e-5dbe95ada786)✧VISIÓN A LARGO PLAZO:
 Nuestro objetivo es asegurar la sostenibilidad y adaptabilidad de NyanViajes, respondiendo a la necesidad cambiantes que se presenten en base a la opinion de los estudiantes y evolucionando
 las tendencias de trasnporte. Queremos consolidad y asegurar que nuestra aplicación sea una herramienta esencial para el retorno a casa y el transporte económico y seguro para los alumnos.
 </div>
@@ -107,7 +108,7 @@ Actualmente, **NyanViajes** se encuentra en fase de desarrollo. Estamos trabajan
 
 - **Ionic Framework** para el desarrollo de la interfaz móvil.
 - **Angular** para la lógica de la aplicación.
-- **Node.js** y **Express** para el backend.
+- **Node.js**  para el backend.
 
 
 </div>  
@@ -121,6 +122,9 @@ Actualmente, **NyanViajes** se encuentra en fase de desarrollo. Estamos trabajan
 
 ![d9hk7o3-2b772ce9-c592-4bbe-a521-df7c640bd209](https://github.com/user-attachments/assets/7ef526af-33b4-449e-b805-a13bf747dad3) Sebastian Urrutia
 ![ddeuo3e-8b4d5beb-6c2f-41e1-acc9-52ddbd85040d](https://github.com/user-attachments/assets/e5e0d0bc-af72-4a83-97dd-2277ce3db461) Betzabe Ruiz
+
+![dbbypmk-d107bad7-d34b-4cbd-9a1b-c32e7c191524](https://github.com/user-attachments/assets/a6fa0e47-af50-486a-89a4-e282c90850ce)
+
 </div>  
 
 

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { FormControl, FormGroup, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
 
 @Component({
@@ -27,8 +28,13 @@ export class LoginPage implements OnInit {
  tipoContrasenia: string = 'password';  
  iconoContrasenia: string = 'eye';  
 
+  email: string = "";
+  password: string = "";
+
+
   constructor(private router: Router) { }
 
+<<<<<<< HEAD
   ngOnInit() {
   }
   
@@ -52,5 +58,12 @@ export class LoginPage implements OnInit {
     }
   }
 
+=======
+  ngOnInit() { }
+
+  public recuperar = [
+    { type: 'textarea', placeholder: 'Ingrese su correo para enviar link de recuperación' },
+  ];
+>>>>>>> f81d795ff7d03066083a8a11a75abb53218a9ef0
 }
 
